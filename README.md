@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website — Sai Akshaya Bhupathiraju
 
 A single-page, responsive portfolio built from the resume (dark theme, typing animation, scroll animations, mobile menu).
@@ -33,3 +34,6 @@ Open `index.html` in any browser — no server or build step needed.
 
 - The Projects section has one entry (community service) — consider adding 1–2 small academic/personal projects (e.g., a C program like a student record system, or a MySQL database demo).
 - Typo fixes applied from the resume: "my sql" → **MySQL**, "teluqu" → **Telugu**, "throw ball" → **Throwball**.
+=======
+# portfolio
+>>>>>>> e93c6d833aebf4691f6f9145023bd155d1667499
